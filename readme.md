@@ -2,7 +2,7 @@
 
 ## Description
 
-This weeks challenge is to create a CLI in node.js that generates a readme file. When users start up the CLI they will be asked a series of questions about their application. Those answers will be used to populate a professional looking readme file with a relevant name.
+This weeks challenge is to create a CLI in node.js (using the inquirer package) that generates a readme file. When users start up the CLI they will be asked a series of questions about their application. Those answers will be used to populate a professional looking readme file with a relevant name.
 
 ## Installation and Deployment
 
