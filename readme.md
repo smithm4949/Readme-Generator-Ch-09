@@ -10,7 +10,7 @@ This application is not deployed nor hosted and there is no one way for other us
 
 ## Demo
 
-A screenshot of the app and a schedule taken during the 10am block is included below:![Hour long blocks are color coded and show a sample schedule](./assets/app_screenshot.png)
+A demo of the app can be viewed here: [Readme generator demo](https://watch.screencastify.com/v/eqLapJn78oOXlTSXd9rX)
 
 ## Authors and acknowledgment
 
