@@ -1,0 +1,14 @@
+{
+  "name": "Readme Generator",
+  "version": "1.0.0",
+  "description": "Quickly and easily generate a readme file through a CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myles Smith",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  }
+}
